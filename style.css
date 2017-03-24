@@ -79,7 +79,7 @@ ul,li{
 /* ------------------banner 开始-------------------------------*/
 .banner{
 	width: 100%;
-	background: url("banner1.jpg") no-repeat;
+	background: url("https://wujinlin0305.github.io/homework324/banner1.jpg") no-repeat;
 	background-size: 100%;
 }
 .swiper-container{
